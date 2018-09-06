@@ -1,5 +1,5 @@
 build:
-	wget https://updates.jenkins-ci.org/latest/jenkins.war
+#	wget https://updates.jenkins-ci.org/latest/jenkins.war
 	docker build -t jenkins-docker  .
 
 run:
