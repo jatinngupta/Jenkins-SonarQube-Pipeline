@@ -1,4 +1,4 @@
-# SonarQube
+# Jenkins-SonarQube-Pipeline
 
 This repository will guide you to setup sonarqube with jenkins inside Docker.
 
