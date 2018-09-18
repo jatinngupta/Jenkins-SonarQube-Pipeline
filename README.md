@@ -5,7 +5,7 @@ This repository will guide you to setup sonarqube with jenkins inside Docker.
 Let's start.
 
 1. Clone this repo,
-   git clone https://github.com/Jating7413/SonarQube.git
+   git clone https://github.com/Jating7413/Jenkins-SonarQube-Pipeline.git
 2. cd docker/
 3. make build
 4. cd ..
